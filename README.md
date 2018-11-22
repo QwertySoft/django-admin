@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-# django-polls-app
-=======
 # django-admin
->>>>>>> 2afb9b2305da7ae0ebf6af6512a037a34b29cae9
+Ejemplo de administración de entidades con el admin site de Django
+
+# Install dependencies
+    pip install django
+    
+# Run
+    python manage.py run
